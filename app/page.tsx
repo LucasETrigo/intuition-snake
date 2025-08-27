@@ -64,7 +64,7 @@ export default function Home() {
                                     <div className='inline-flex items-center space-x-2 rounded-full glass-minimal px-4 py-2 animate-scale-in delay-200'>
                                         <div className='h-2 w-2 rounded-full bg-emerald-400 animate-breathe'></div>
                                         <span className='text-xs text-neutral-400 font-medium tracking-wide'>
-                                            Live on Testnet Networks
+                                            Live on Intuition Testnet
                                         </span>
                                     </div>
                                     <h1 className='text-hero text-white animate-fade-in-up delay-300'>
@@ -78,8 +78,8 @@ export default function Home() {
                                     Master blockchain, AI, and cryptocurrency
                                     terminology through an elegantly designed
                                     snake game. Your achievements and progress
-                                    are permanently recorded on-chain for global
-                                    competition.
+                                    are permanently recorded on-chain on
+                                    Intuition for global competition.
                                 </p>
                                 <div className='flex flex-wrap items-center gap-6 pt-4 animate-slide-in-left delay-600'>
                                     <div className='flex items-center space-x-2 text-sm text-elegant text-neutral-500'>
@@ -92,7 +92,7 @@ export default function Home() {
                                     </div>
                                     <div className='flex items-center space-x-2 text-sm text-elegant text-neutral-500'>
                                         <div className='h-1.5 w-1.5 rounded-full bg-neutral-500'></div>
-                                        <span>Multi-network support</span>
+                                        <span>Intuition Testnet support</span>
                                     </div>
                                     <div className='flex items-center space-x-2 text-sm text-elegant text-neutral-500'>
                                         <div className='h-1.5 w-1.5 rounded-full bg-neutral-500'></div>
