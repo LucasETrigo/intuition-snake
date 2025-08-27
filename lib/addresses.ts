@@ -1,0 +1,11 @@
+export const MULTIVAULT =
+    (process.env.NEXT_PUBLIC_MULTIVAULT_ADDRESS as `0x${string}`) ||
+    '0x1A6950807E33d5bC9975067e6D6b5Ea4cD661665';
+export const INTUITION_MULTIVAULT =
+    (process.env.NEXT_PUBLIC_INTUITION_MULTIVAULT_ADDRESS as `0x${string}`) ||
+    '0x4c745524Ee2dac4c5488df43568C88c91E46fe53';
+
+export const CONTRACT_ADDRESSES: Record<84532 | 13579, `0x${string}`> = {
+    84532: MULTIVAULT,
+    13579: INTUITION_MULTIVAULT,
+};
